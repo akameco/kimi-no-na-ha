@@ -1,0 +1,26 @@
+{
+  "name": "kimi-no-na-ha",
+  "version": "0.0.0",
+  "description": "君の名は",
+  "license": "MIT",
+  "repository": "akameco/kimi-no-na-ha",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "bin": {
+    "君の名は": "kimi-no-na-ha.sh"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "kimi-no-na-ha.sh"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "君の名は"
+  ]
+}
