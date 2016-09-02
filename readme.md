@@ -1,4 +1,4 @@
-# 君の名は
+# 君の名は。
 
 <img src="header.jpg"/>
 
