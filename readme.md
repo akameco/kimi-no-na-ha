@@ -1,5 +1,7 @@
 # 君の名は。
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/kimi-no-na-ha.svg)](https://greenkeeper.io/)
+
 <img src="header.jpg"/>
 
 ## Install
